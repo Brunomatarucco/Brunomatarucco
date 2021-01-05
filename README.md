@@ -4,7 +4,11 @@
 
 #### Projects
 
+- Here is the [repository](https://github.com/Brunomatarucco/bootcamp_data_science_alura) in which I am using throughout the duration of the Data Science Bootcamp from Alura Cursos that I am attending
 
+- []()
+
+- []()
 
 #### Updates and Info
 
@@ -12,4 +16,4 @@
 
 - 🌱 I’m currently focusing my studies on Data Science tools/libraries for Python about data manipulation, data visualization, statistics and Machine Learning. I am also in learning SQL, ETL and AWS.
 
-- 📫 You can contact me on my LinkedIn: linkedin.com/in/brunomatarucco/
+- 📫 You can contact me on my LinkedIn: [Bruno Matarucco](linkedin.com/in/brunomatarucco/)
