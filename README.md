@@ -4,11 +4,13 @@
 
 #### Projects
 
-- Here is the [repository](https://github.com/Brunomatarucco/bootcamp_data_science_alura) in which I am using throughout the duration of the Data Science Bootcamp from Alura Cursos that I am attending
+- Here is the [repository](https://github.com/Brunomatarucco/bootcamp_data_science_alura) in which I am using throughout the duration of the Data Science Bootcamp from Alura Cursos that I am attending. In this repository you will find the Jupyter Notebooks and the csvs used in the course. 
 
-- []()
+- [Estudo Covid](https://github.com/Brunomatarucco/estudo_covid): in this repository I analysed the data of number of cases and deaths in Brazil from the beginning of the pandemic until the middle of November. The greatest challenge faced in this project was that the database had city and state numbers, and ever since Brazil is a very big country with a large variety of number of citizens per city and state, there was some hardship finding a good balance between comparisons and focused analysis.
 
-- []()
+- [Cobertura Vacinal](https://github.com/Brunomatarucco/Cobertura_vacinal_aparelhamento): in this project I got the numbers of the vaccination coverages city-wise from 2010 to 2019 and I tested the hypothesis which the infrastructure of the Health system from that city, taking into account the physical infrastructure (Buildings, hospitals and other kinds of health related buildings) and also the Human Resources infrastructure (Doctors, nurses and other professionals), had a direct correlation with the vaccination coverage of that city. The biggest challenge here was connecting all the databases, for none of the data was available in the sabe database provided by the government, everything had to be uploaded, cleaned, treated and appended to the main dataframe, so the effort put into the cleasing and treatment of the data was very big aAnalise Pensend had to be very thorough.
+
+- [Analise Pense](https://github.com/Brunomatarucco/Analise_PENSE): In progress...
 
 #### Updates and Info
 
