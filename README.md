@@ -2,6 +2,8 @@
 
  I'm Bruno! I'm actually quite new to this whole technology-as-a-way-of-living thing. I am a Psychologist and I have worked with language education ever since I was 17 (I am 27 now). During the second semester of the Covid pandemic I started studying Python and Data Science out of curiosity but every time I went deeper into my studies I realized I wanted to go even deeper, I decided then that I wanted to change my career path to become a Data Scientist. So I created this Github profile to help me achieve this goal and also help me keep organized, in touch with what is happening in the world and also being able to contribute to the community somehow
 
+---
+
 #### Projects
 
 - Here is the [repository](https://github.com/Brunomatarucco/bootcamp_data_science_alura) in which I am using throughout the duration of the Data Science Bootcamp from Alura Cursos that I am attending. In this repository you will find the Jupyter Notebooks and the csvs used in the course. 
@@ -11,6 +13,8 @@
 - [Cobertura Vacinal](https://github.com/Brunomatarucco/Cobertura_vacinal_aparelhamento): in this project I got the numbers of the vaccination coverages city-wise from 2010 to 2019 and I tested the hypothesis which the physical and human-resources-related infrastructure of the Health system from that city had a direct correlation with the vaccination coverage of that city. The biggest challenge here was connecting all the databases, for none of the data was available in the sabe database provided by the government, everything had to be uploaded, cleaned, treated and appended to the main dataframe separately, so the effort put into the cleasing and treatment of the data was very big and had to be very thorough.
 
 - [Analise Pense](https://github.com/Brunomatarucco/Analise_PENSE): In progress...
+
+---
 
 #### Updates and Info
 
