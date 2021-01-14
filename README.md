@@ -8,11 +8,13 @@
 
 - Here is the [repository](https://github.com/Brunomatarucco/bootcamp_data_science_alura) in which I am using throughout the duration of the Data Science Bootcamp from Alura Cursos that I am attending. In this repository you will find the Jupyter Notebooks and the csvs used in the course. 
 
-- [Análise Exploratória Covid](https://github.com/Brunomatarucco/estudo_covid): in this repository I analysed the data of number of cases and deaths in Brazil from the beginning of the pandemic until the middle of November. The greatest challenge faced in this project was that the database had city and state numbers, and ever since Brazil is a very big country with a large variety of number of citizens per city and state, there was some hardship finding a good balance between comparisons and focused analysis.
+- [Análise Exploratória Covid](https://github.com/Brunomatarucco/estudo_covid): in this repository I did a exploratory analysis of the data that has a number of cases and deaths in Brazil from the beginning of the pandemic until the middle of November. The greatest challenge faced in this project was that the database had city and state numbers, and ever since Brazil is a very big country with a large variety of number of citizens per city and state.
 
 - [Cobertura Vacinal](https://github.com/Brunomatarucco/Cobertura_vacinal_aparelhamento): in this project I got the numbers of the vaccination coverages city-wise from 2010 to 2019 and I tested the hypothesis which the physical and human-resources-related infrastructure of the Health system from that city had a direct correlation with the vaccination coverage of that city. The biggest challenge here was connecting all the databases, for none of the data was available in the same databases provided by the government, everything had to be uploaded, cleaned, treated and appended to the main dataframe separately, so the effort put into the cleasing and treatment of the data was very thorough.
 
 - [Analise Pense](https://github.com/Brunomatarucco/Analise_PENSE): this analysis is a project with the database from The National Adolescent School-based Health Survey (PeNSE), which is a survey conducted with students from public and private schools about their health and experiences. In it I chose only some of the categories and questions from the survey to compare how they were answered by adolescents from different races/colors. The project on itself provided a good reflection on how people with different racial backgrounds have different experiences even in school.
+
+- []()
 
 ---
 
