@@ -14,7 +14,7 @@
 
 - [Analise Pense](https://github.com/Brunomatarucco/Analise_PENSE): this analysis is a project with the database from The National Adolescent School-based Health Survey (PeNSE), which is a survey conducted with students from public and private schools about their health and experiences. In it I chose only some of the categories and questions from the survey to compare how they were answered by adolescents from different races/colors. The project on itself provided a good reflection on how people with different racial backgrounds have different experiences even in school.
 
-- [Analise Temporal Covid](https://github.com/Brunomatarucco/Analise_temporal_covid): in this repository I took on a similiar analysis to the one done on a previous project (Análise Exploratória Covid), but this time the idea was to analyse how the data is progessing as time passes and try to predict the future of cases and deaths due to Covid-19. The open source named Prophet from Facebook was the main tool in the prediction used in this study. =
+- [Analise Temporal Covid](https://github.com/Brunomatarucco/Analise_temporal_covid): in this repository I took on a similiar analysis to the one done on a previous project (Análise Exploratória Covid), but this time the idea was to analyse how the data is progressing as time passes and try to predict the future of cases and deaths due to Covid-19. The open source named Prophet from Facebook was the main tool in the prediction used in this study.
 
 ---
 
