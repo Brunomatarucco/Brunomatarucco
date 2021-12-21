@@ -12,9 +12,11 @@
 
 - [Cobertura Vacinal](https://github.com/Brunomatarucco/Cobertura_vacinal_aparelhamento): in this project I got the numbers of the vaccination coverages city-wise from 2010 to 2019 and I tested the hypothesis which the physical and human-resources-related infrastructure of the Health system from that city had a direct correlation with the vaccination coverage of that city. The biggest challenge here was connecting all the databases, for none of the data was available in the same databases provided by the government, everything had to be uploaded, cleaned, treated and appended to the main dataframe separately, so the effort put into the cleasing and treatment of the data was very thorough.
 
-- [Analise Pense](https://github.com/Brunomatarucco/Analise_PENSE): this analysis is a project with the database from The National Adolescent School-based Health Survey (PeNSE), which is a survey conducted with students from public and private schools about their health and experiences. In it I chose only some of the categories and questions from the survey to compare how they were answered by adolescents from different races/colors. The project on itself provided a good reflection on how people with different racial backgrounds have different experiences even in school.
+- [Análise PENSE](https://github.com/Brunomatarucco/Analise_PENSE): this analysis is a project with the database from The National Adolescent School-based Health Survey (PeNSE), which is a survey conducted with students from public and private schools about their health and experiences. In it I chose only some of the categories and questions from the survey to compare how they were answered by adolescents from different races/colors. The project on itself provided a good reflection on how people with different racial backgrounds have different experiences even in school.
 
-- [Analise Temporal Covid](https://github.com/Brunomatarucco/Analise_temporal_covid): in this repository I took on a similiar analysis to the one done on a previous project (Análise Exploratória Covid), but this time the idea was to analyse how the data is progressing as time passes and try to predict the future of cases and deaths due to Covid-19. The open source named Prophet from Facebook was the main tool in the prediction used in this study.
+- [Análise Temporal Covid](https://github.com/Brunomatarucco/Analise_temporal_covid): in this repository I took on a similiar analysis to the one done on a previous project (Análise Exploratória Covid), but this time the idea was to analyse how the data is progressing as time passes and try to predict the future of cases and deaths due to Covid-19. The open source named Prophet from Facebook was the main tool in the prediction used in this study.
+
+- [Análise Dados Clinicos UTI](https://github.com/Brunomatarucco/Covid-clinical-data): this was the last project done in the Data Science Bootcamp from Alura.
 
 ---
 
@@ -22,6 +24,6 @@
 
 - 🔭 I’m currently working on the bootcamp I'm enrolled, in which the topic of studies is the analysis and predictions using time series. 
 
-- 🌱 I’m currently focusing my studies on Data Science tools/libraries for Python about data manipulation, data visualization, statistics and Machine Learning. I am also in learning SQL, ETL and AWS.
+- 🌱 I’m currently enrolled at a Data Science and Analytics MBA, in which the studies focus on data manipulation, data visualization, statistics and Machine Learning. I am also in learning SQL, ETL and AWS on my free time.
 
 - 📫 You can contact me on my LinkedIn: [Bruno Matarucco](linkedin.com/in/brunomatarucco/)
