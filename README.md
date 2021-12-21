@@ -16,14 +16,14 @@
 
 - [Análise Temporal Covid](https://github.com/Brunomatarucco/Analise_temporal_covid): in this repository I took on a similiar analysis to the one done on a previous project (Análise Exploratória Covid), but this time the idea was to analyse how the data is progressing as time passes and try to predict the future of cases and deaths due to Covid-19. The open source named Prophet from Facebook was the main tool in the prediction used in this study.
 
-- [Análise Dados Clinicos UTI](https://github.com/Brunomatarucco/Covid-clinical-data): this was the last project done in the Data Science Bootcamp from Alura.
+- [Análise Dados Clínicos Covid](https://github.com/Brunomatarucco/Covid-clinical-data): this was the last project done in the Data Science Bootcamp from Alura. The dataset was made available in [Kaggle](https://www.kaggle.com/S%C3%ADrio-Libanes/covid19) by the hospital Sírio Libanes in order to help them better predict and prepare their healthcare system and avoid collapse, defined by above capacity need of ICU beds, using individual clinical data - in lieu of epidemiological and populational data.
 
 ---
 
 #### Updates and Info
 
-- 🔭 I’m currently working on the bootcamp I'm enrolled, in which the topic of studies is the analysis and predictions using time series. 
+- 🔭 I’m currently working as a Product Owner at Mindsight, a company specialized in People Analytics and Talent Management. 
 
-- 🌱 I’m currently enrolled at a Data Science and Analytics MBA, in which the studies focus on data manipulation, data visualization, statistics and Machine Learning. I am also in learning SQL, ETL and AWS on my free time.
+- 🌱 I’m currently enrolled at a Data Science and Analytics MBA, in which the studies focus on data manipulation, data visualization, statistics and Machine Learning. I am also in learning SQL, AWS and some R on my free time.
 
 - 📫 You can contact me on my LinkedIn: [Bruno Matarucco](linkedin.com/in/brunomatarucco/)
