@@ -1,6 +1,7 @@
 ### Hi there 👋
 
- I'm Bruno! I'm actually quite new to this whole technology-as-a-way-of-living thing. I am a Psychologist and I have worked with language education ever since I was 17 (I am 27 now). During the second semester of the Covid pandemic I started studying Python and Data Science out of curiosity but every time I went deeper into my studies I realized I wanted to go even deeper, I decided then that I wanted to change my career path to become a Data Scientist. So I created this Github profile to help me achieve this goal and also help me keep organized, in touch with what is happening in the world and also being able to contribute to the community somehow
+I'm Bruno, I'm Brazilian and 28 years old! I'm actually quite new to this whole technology-as-a-way-of-living thing. I am a Psychologist and I have worked with language education from my 17's to my 27's. During the second semester of the Covid pandemic I started studying Python and Data Science out of curiosity but every time I went deeper into my studies I realized I wanted to go even deeper, I decided then that I wanted to change my career path to become a Data Scientist. So I created this Github profile to help me achieve this goal and also help me keep organized, some of the projects are aligned with what is happening in the world and also being able to contribute to the community somehow.
+The summary of the projects in here were all written in English to better communicate what was done in the projects with the community, but the projects are written in Portuguese. 
 
 ---
 
